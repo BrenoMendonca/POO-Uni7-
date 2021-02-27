@@ -9,3 +9,5 @@ Passos:
 2 -- "init" Para iniciar um novo repositorio do Git
 3 -- "git status" Para verificar o estado dos aruivos no repositório 
 4 -- "git add" Para incluir aruivos no trancking do Git 
+5 -- "git commit -m" Uma mensagem descritiva para confirmar as mudanças do stage 
+para o repositorio local 
