@@ -10,5 +10,8 @@ Passos:
 2 -- "init" Para iniciar um novo repositorio do Git
 3 -- "git status" Para verificar o estado dos aruivos no repositório 
 4 -- "git add" Para incluir aruivos no trancking do Git 
-5 -- "git commit -m" Uma mensagem descritiva para confirmar as mudanças do stage 
+5 -- "git config --global user .name "seu nome""
+6 -- "git config --global user.email "seu@email.com"
+7 -- "git commit -m" Uma mensagem descritiva para confirmar as mudanças do stage 
 para o repositorio local 
+8 -- "git log" para ver o historico de commits do repositório local 
