@@ -1,0 +1,11 @@
+-- Mantém a base historica da evolução do código fonte de um software
+-- ferramentas 
+-- git 
+
+
+Passos:
+0 -- Instalar o Git
+1 -- Escolher uma pasta que será o repositporio (dir, mkdir e cd)
+2 -- "init" Para iniciar um novo repositorio do Git
+3 -- "git status" Para verificar o estado dos aruivos no repositório 
+4 -- "git add" Para incluir aruivos no trancking do Git 
